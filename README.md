@@ -5,7 +5,7 @@
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
-
+ 
 <span class="badge-githubworkflow"><a href="https://github.com/bevry/istextorbinary/actions?query=workflow%3Abevry" title="View the status of this project's GitHub Workflow: bevry"><img src="https://github.com/bevry/istextorbinary/workflows/bevry/badge.svg" alt="Status of the GitHub Workflow: bevry" /></a></span>
 <span class="badge-npmversion"><a href="https://npmjs.org/package/istextorbinary" title="View this project on NPM"><img src="https://img.shields.io/npm/v/istextorbinary.svg" alt="NPM version" /></a></span>
 <span class="badge-npmdownloads"><a href="https://npmjs.org/package/istextorbinary" title="View this project on NPM"><img src="https://img.shields.io/npm/dm/istextorbinary.svg" alt="NPM downloads" /></a></span>
